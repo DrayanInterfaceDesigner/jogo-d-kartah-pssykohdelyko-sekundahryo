@@ -1,0 +1,23 @@
+{
+  "name": "jogo-d-kartah-pssykohdelyko-sekundahryo",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "sass": "^1.69.5",
+    "typescript": "^5.2.2",
+    "vite": "^5.0.8"
+  },
+  "dependencies": {
+    "three": "^0.159.0"
+  },
+  "description": "eh",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
